@@ -1,1 +1,3 @@
-# Diamond-EgoSystem-
+# Diamond EgoSystem
+
+Project overview and instructions.
